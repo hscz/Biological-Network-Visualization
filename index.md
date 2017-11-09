@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to Visualization Lab of JSTU
 
-You can use the [editor on GitHub](https://github.com/hscz/Biological-Network-Visualization/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#Availability and Requirements
+- Project name: Grid & Modular based Layout algorithm (GML)
+- Project home page :[https://hscz.github.io/Biological-Network-Visualization/](https://hscz.github.io/Biological-Network-Visualization/) 
+- Operating system (s) : Windows (32or64 bit version)
+- Programming language : Java
+- Other requirements : Java 1.6+
+- License : Free for non-commercial use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GML is a novel grid-layout algorithm that aims to clarify the network complexity according to its inherent modular structure. With the method of module-layout, GML optimizes the locations of modules to reduce visual complications effectively and is particularly suitable for visualizations of complex biological networks with modular feature.
 
-### Markdown
+#Download
+*The GML plugin and test networks can be downloaded from [here](https://drive.google.com/open?id=15nJWLW3hyQc95i8npV2TIwmNebzF9p3Q).
+*Another grid-layout software(GBL) can be downloaded from [here](https://drive.google.com/open?id=1AUWerdSGgvTN8BMqI5oRbDnST3xRPtit). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hscz/Biological-Network-Visualization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#Note 
+The software is temporarily protected by password which can be found in our manuscript and it would be removed once the paper is accepted for publication.
