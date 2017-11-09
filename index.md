@@ -10,9 +10,11 @@ GML is a novel grid-layout algorithm that aims to clarify the network complexity
 - License : Free for non-commercial use.
 
 ## Download
-- The ## GML plugin and test networks can be downloaded from ## [here](https://drive.google.com/open?id=15nJWLW3hyQc95i8npV2TIwmNebzF9p3Q).
+### GML: 
+The GML plugin and test networks can be downloaded from [here](https://drive.google.com/open?id=15nJWLW3hyQc95i8npV2TIwmNebzF9p3Q).
 
-- Another grid-layout software ## GBL can be downloaded from ## [here](https://drive.google.com/open?id=1AUWerdSGgvTN8BMqI5oRbDnST3xRPtit). 
+### GBL:
+Another grid-layout software GBL can be downloaded from [here](https://drive.google.com/open?id=1AUWerdSGgvTN8BMqI5oRbDnST3xRPtit). 
 
 ## Note 
 The software is temporarily protected by password which can be found in our manuscript and it would be removed once the paper is accepted for publication.
