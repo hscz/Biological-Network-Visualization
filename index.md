@@ -14,7 +14,11 @@ GML is a novel grid-layout algorithm that aims to clarify the network complexity
 The GML plugin and test networks can be downloaded from [here](https://drive.google.com/open?id=15nJWLW3hyQc95i8npV2TIwmNebzF9p3Q).
 
 ### GBL:
-Another grid-layout software GBL can be downloaded from [here](https://drive.google.com/open?id=1AUWerdSGgvTN8BMqI5oRbDnST3xRPtit). 
+For comparison purpose, another grid-layout software GBL can be downloaded from [here](https://drive.google.com/open?id=1AUWerdSGgvTN8BMqI5oRbDnST3xRPtit). 
+
+### Hybrid grid layout:
+The hybrid grid layout had been developed by Inoue et al., please refer to document:
+[Inoue K, Shimozono S, Yoshida H, Kurata H: Application of Approximate Pattern Matching in Two Dimensional Spaces to Grid Layout for Biochemical Network Maps. PLoS ONE 2012, 7(6):e37739.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0037739).
 
 ## Note 
 The software is temporarily protected by password which can be found in our manuscript and it would be removed once the paper is accepted for publication.
