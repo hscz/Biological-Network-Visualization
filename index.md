@@ -20,7 +20,7 @@ For comparison purpose, another grid-layout software GBL can be downloaded from 
 The hybrid grid layout had been developed by Inoue et al., please refer to document:
 [Inoue K, Shimozono S, Yoshida H, Kurata H: Application of Approximate Pattern Matching in Two Dimensional Spaces to Grid Layout for Biochemical Network Maps. PLoS ONE 2012, 7(6):e37739.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0037739).
 
-The hybrid grid layout tool had been developed by Inoue K and it can be downloaded from [here](https://drive.google.com/open?id=1iqeP3SVir3vf_ItFpC_UNaCMMROkf-tW). 
+The tool of hybrid grid layout can be downloaded from [here](https://drive.google.com/open?id=1iqeP3SVir3vf_ItFpC_UNaCMMROkf-tW). 
 
 ## Note 
 All tools and example networks can be found at the website, and these can constitute the minimal data necessary to replicate the results in our manuscript.(2019-02-04 latest update)
